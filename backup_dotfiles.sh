@@ -12,7 +12,7 @@ fi
 
 
 # copy Vs-Code files
-cp  $HOME/.config/Code/User/{keybindings.json,settings.json,spellright.dict} .
+cp  $HOME/.config/Code/User/{settings.json} .
 
 # copy snippets folder
 cp -r $HOME/.config/Code/User/snippets .
