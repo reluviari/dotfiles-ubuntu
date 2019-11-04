@@ -21,7 +21,7 @@ cp -r $HOME/.config/Code/User/snippets .
 code --list-extensions --show-versions >> extensions.txt
 
 # copy other dot files 
-cp  $HOME/{.zshrc} .
+cp  $HOME/.zshrc .
 
 
 # Check git status
