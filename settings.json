@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Adapta Nokto",
+    "editor.tabCompletion": "on",
+    "editor.tabSize": 2,
+    "files.associations": {
+        "*.html.erb": "erb"
+    },
+    "[ruby]": {
+      "editor.formatOnSave": true
+    },
+    "window.zoomLevel": -1
+}
