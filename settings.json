@@ -4,7 +4,8 @@
     "editor.tabCompletion": "on",
     "editor.tabSize": 2,
     "files.associations": {
-        "*.html.erb": "erb"
+        // "*.html.erb": "erb"
+        "html.erb": "html", "erb": "html"
     },
     "[ruby]": {
       "editor.formatOnSave": true
