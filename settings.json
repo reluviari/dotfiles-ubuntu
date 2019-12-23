@@ -1,40 +1,16 @@
 {
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Adapta Nokto",
-    "editor.tabCompletion": "on",
-    "editor.tabSize": 2,
-    "files.associations": {
-        // "*.html.erb": "erb"
-        "html.erb": "html", "erb": "html"
-    },
-    "[ruby]": {
-      "editor.formatOnSave": true
-    },
-    "window.zoomLevel": -1,
-    "workbench.startupEditor": "newUntitledFile",
-
-
-    {
-      "key": "ctrl+shift+down",
-      "command": "workbench.action.terminal.resizePaneDown",
-      "when": "terminalFocus"
-    },
-    {
-      "key": "ctrl+shift+left",
-      "command": "workbench.action.terminal.resizePaneLeft",
-      "when": "terminalFocus"
-    },
-    {
-      "key": "ctrl+shift+right",
-      "command": "workbench.action.terminal.resizePaneRight",
-      "when": "terminalFocus"
-    },
-    {
-      "key": "ctrl+shift+up",
-      "command": "workbench.action.terminal.resizePaneUp",
-      "when": "terminalFocus"
-    }
-
-
-
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Adapta Nokto",
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "files.associations": {
+    // "*.html.erb": "erb"
+    "html.erb": "html",
+    "erb": "html"
+  },
+  "[ruby]": {
+    "editor.formatOnSave": true
+  },
+  "window.zoomLevel": -1,
+  "workbench.startupEditor": "newUntitledFile"
 }

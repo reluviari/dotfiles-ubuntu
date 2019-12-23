@@ -14,6 +14,9 @@ fi
 # copy Vs-Code files
 cp  $HOME/.config/Code/User/settings.json .
 
+# copy keybindings
+cp  $HOME/.config/Code/User/keybindings.json .
+
 # copy snippets folder
 cp -r $HOME/.config/Code/User/snippets .
 
